@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projetinho de treinamento</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+</head>
+<body>
+
+ <header class="cabecalho">
+   <img class="cabecalho-imagem" src="img/1.png" >
+
+   <nav class=" cabecalho-menu"> 
+    <a class="cabecalho-menu-item" href="https://chat.whatsapp.com/I3VAswcIclZJdEToNFE2Jm" >Comunidade de programadores </a>
+    <a  class="cabecalho-menu-item" href="https://www.linkedin.com/in/karollyne-moraes-a26195274/" >LinkedIn</a>
+    <a  class="cabecalho-menu-item" href="https://github.com/karollyyy" >Github</a>
+    <a  class="cabecalho-menu-item" href="https://www.instagram.com/karollyne.moraess" >Instagram</a> 
+
+</nav>
+   
+ </header>
+
+ <main class="conteudo">
+
+    <section class="conteudo-principal">
+      <div class="conteudo-principal-escrito">
+        <h1 class="conteudo-principal-escrito-titulo">Desenvolvedora Jr</h1>
+       
+        <h2 class="conteudo-principal-escrito-subtitulo"><strong>Venha se juntar </strong>com a gente e trocar dicas!!</h2>
+       
+      <a href="https://api.whatsapp.com/send?phone=5521973972807&text=Crie%20seu%20site%20conosco!!!"><button class="conteudo-principal-escrito-botao" >  Me adicione</button></a> 
+      </div>
+   <img class="conteudo-principal-imagem" src="img/1.png" >
+    </section>
+
+<section class="conteudo-secundario">
+    <h3 class="conteudo-secundario-titulo">Vamos praticar programação?</h3>
+       <p class="conteudo-secundario-paragrafo">1.Troca de ideiais e ajuda entre colegas iniciantes.</p>
+       <p class="conteudo-secundario-paragrafo">2.Experiência de colegas na área.</p>
+       <p class="conteudo-secundario-paragrafo">3.Como criar seu linkedin e Github para conseguir sua primeira oportunidade na área</p>
+
+ </section>
+
+ </main>
+
+ <footer class="rodape">
+<img class="rodape-imagem" src="img/transferir.jpeg" alt="">
+ </footer>
+
+</body>
+</html>
